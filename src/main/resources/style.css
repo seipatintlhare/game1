@@ -1,0 +1,53 @@
+.root {
+    -fx-background-color: #051094;
+}
+
+.controls {
+    -fx-padding: 10px;
+    -fx-font-size: 15px;
+    -fx-text-fill: #EEEEEE;
+}
+#hBox{
+    -fx-background-color: #900603
+
+
+
+}
+#hbox{
+    -fx-border-radius: 30px;
+
+}
+
+
+.label {
+    -fx-font-size: 15px;
+    -fx-text-fill: #EEEEEE;
+    -fx-cursor: hand;
+}
+
+.label:hover {
+    -fx-text-fill: #9E9E9E;
+}
+
+#exit {
+    -fx-padding: 1px 5px;
+    -fx-border-width: 1px;
+    -fx-border-color: #E57373;
+    -fx-border-radius: 5px;
+}
+.image {
+    -fx-cursor: hand;
+
+}
+
+.image: hover {
+
+
+}
+#BIG {
+    -fx-font-size: 30px;
+    -fx-text-fill: #EEEEEE;
+    -fx-cursor: hand;
+
+}
+
