@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ce9fab3-8d76-4491-a39f-9bcacca8cff1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mygame/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/mygame/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/PLN.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/cc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/cl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/cld.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/cll.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/clr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/coin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/mygame/hello-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/plane.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="6ce9fab3-8d76-4491-a39f-9bcacca8cff1" name="Changes" comment="airplane game" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +64,14 @@
       <option name="presentableId" value="Default" />
       <updated>1654093641848</updated>
     </task>
+    <task id="LOCAL-00001" summary="airplane game">
+      <created>1654343117435</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654343117435</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,5 +84,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="airplane game" />
+    <option name="LAST_COMMIT_MESSAGE" value="airplane game" />
   </component>
 </project>
